@@ -1,0 +1,13 @@
+TRL-Internal-Docs/
+│
+├── SOPs/
+│   └── development-workflow.md
+│
+├── Plans/
+│   ├── short-term.md
+│   └── long-term.md
+│
+├── MeetingNotes/
+│   └── session-001.md
+│
+└── README.md
